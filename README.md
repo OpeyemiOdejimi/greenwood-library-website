@@ -31,7 +31,7 @@ You will simulate the roles of two contributors: "**_Morgan_**" and "**_Jamie_**
 ## Morgan's Work: Adding Book Reviews
 
 1. Create a Branch for Morgan:
-3. Switch to a neew branch named **_add-book-reviews_**
+3. Switch to a new branch named **_add-book-reviews_**
 4. Add a new file **_book_review.html_** to represent the Book Reviews Section:
 5. Add a random text content into the file.
 6. Stage, Commit, and Push Changes with a message like "**_Add book reviews section._**"
