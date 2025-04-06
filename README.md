@@ -44,6 +44,18 @@ You will simulate the roles of two contributors: "**_Morgan_**" and "**_Jamie_**
 Repeat rhe same floe for Jamie's work on the Events Page. Ensure Jamie's work is in **_update-events_** branch.
 
  * Pull the latest changes from the main branch into **_update-events_** before raisibng the PR
+
+## Links to the html files
+
+**home.html** : **_https://github.com/OpeyemiOdejimi/greenwood-library-website/blob/main/home.html_**
+
+**events.html** : **_https://github.com/OpeyemiOdejimi/greenwood-library-website/blob/main/events.html_**
+
+**contacts.html** : **_https://github.com/OpeyemiOdejimi/greenwood-library-website/blob/main/contact_us.html_**
+
+**book_reviews.html** : **_https://github.com/OpeyemiOdejimi/greenwood-library-website/blob/main/book_reviews.html_**
+
+**about_us.html** : **_https://github.com/OpeyemiOdejimi/greenwood-library-website/blob/main/about_us.html_**
    
 
 
